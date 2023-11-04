@@ -1,0 +1,9 @@
+diff --git a/some.file b/some.file
+index 57b50db..cde4b6c 100644
+--- a/some.file
++++ b/some.file
+@@ -3,3 +3,4 @@
+ "Git is awesome." 
+ "Third line"
+ "after stash"  
++"Patch changes" 
