@@ -2,4 +2,8 @@
 "Line from github" 
 "Git is awesome." 
 "Third line"
+<<<<<<< HEAD
 "after stash" 
+=======
+"after stash"
+>>>>>>> e2055784c396b4e92628401b2ae6e2c85f4ea1fc
