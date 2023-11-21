@@ -4,7 +4,7 @@ from lib.assertions import Assertions
 from datetime import datetime
 
 class TestUserRegister(BaseCase):
-    def setup_method(self):
+    def setup(self):
         base_part = "learnqa"
         domain = "example.com"
         random_part = datetime.now().strftime("%m%d%Y%H%M%S")
